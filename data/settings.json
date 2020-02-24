@@ -4,6 +4,10 @@
       "section": "Introduction",
       "topics": [
         {
+          "title": "Setting up your site",
+          "slug": ""
+        },
+        {
           "title": "Getting started",
           "slug": "getting-started"
         }
